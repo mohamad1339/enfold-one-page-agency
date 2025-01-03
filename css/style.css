@@ -1518,11 +1518,6 @@ textarea {
   display: inline-block;
 }
 /* media */
-/* @media (max-width: 1500px),(min-width: 1453px){
-  .box-contact3 {
-    padding: 90px 30px 30px;
-  }
-}*/
 
 @media (max-width: 1453px), (min-width: 1418px) {
   .box-contact3 {
@@ -1582,19 +1577,6 @@ textarea {
     padding: 102px 60px 37px;
   }
 
-  /* .box-contact3 {
-    padding: 68px 30px 30px;
-  }
-  .box-contact1 {
-    padding: 75px 30px 30px;
-  }
-
-  .box-contact > .box-contact2 {
-    padding: 82px 30px 37px;
-  }
-  .box-contact3 .btn {
-    margin-top: 40px;
-  } */
   .services-item {
     width: 100%;
   }
